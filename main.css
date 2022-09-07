@@ -1,0 +1,14 @@
+
+html{
+   scroll-behavior: smooth;
+   
+}
+.loader{
+font-size: 0;
+height: 60px;
+width: 60px;
+background: transparent;
+border: 4px solid #fff;
+border-radius: 50%;
+border-top-color: transparent;
+}
